@@ -1,3 +1,8 @@
+- **Preview**
+
+![image](https://github.com/zcvnt/cs2-viewangles/assets/152279857/cb1bb201-bfbe-44d9-abf7-0fb7a4e3c289)
+
+
 - **CS2 Termux Viewangles**
 
   this is the remake of the @ho9's viewangles iphone script, but for android termux using socket from python
